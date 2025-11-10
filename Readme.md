@@ -5,9 +5,7 @@ then saves them as JSON files following the Ironfly programming exercise format 
 
 This program is to be used for the Ironfly programming exercise only.
 
-For login, you can use your own Opal Card account. or use the following account:(Which is mine, please use it for testing only)
-Username: jxiong957@gmail.com
-Password: Abc990109
+For login, you can use your own Opal Card account. or use my .( I cant post it here on github, but you can alwasy ask me)
 
 If you do not wish to login, you can test it in demo mode.
 
